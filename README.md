@@ -1,0 +1,2 @@
+# charactervowelorconsonantinjava
+using java
