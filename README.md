@@ -1,2 +1,2 @@
-# charactervowelorconsonantinjava
+core java code
 using java
