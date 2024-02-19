@@ -1,2 +1,1 @@
-core java code
-using java
+java fandamental 
